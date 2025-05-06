@@ -1,0 +1,52 @@
+body {
+  background-color: #9cc7ee;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #250299;
+  text-align: center;
+  font-size: 55px;
+}
+
+p {
+  font-size: 30px;
+  text-align: justify;
+}
+
+ul li {
+  margin-bottom: 30px;
+}
+
+.hobby-img {
+  width: 500px;
+  border-radius: 15px;
+  display: block;
+  margin: 20px 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table,
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.pais-img {
+  width: 100px;
+}
+
+a {
+  color: #0000ee;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff4500;
+}
